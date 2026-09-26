@@ -1,178 +1,89 @@
-```md
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                     PROFILE HEADER                        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20Profile%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Abdulrahman%20Shamieh%20%7C%20Software%20Engineer&descAlignY=60&descSize=20"/>
-
-</div>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&center=true&vCenter=true&width=800&lines=Software+Engineer+💻;Backend+%26+Cloud+Developer+☁️;AWS+Certified+Cloud+Practitioner+🏆;Building+Reliable+%26+Scalable+Systems+🚀;Automating+Deployments+with+CI%2FCD+⚙️;Always+Learning.+Always+Building.+🔥)](https://git.io/typing-svg)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20Profile&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Abdulrahman%20Shamieh%20•%20Software%20Engineer&descAlignY=58&descSize=20"/>
 
 <br>
 
-<!-- ===================== SOCIAL BADGES ===================== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Cloud+Developer;AWS+Certified+Cloud+Practitioner;Building+Reliable+%26+Scalable+Systems;Automating+Workflows+with+CI%2FCD" />
 
-<div align="center">
+<br><br>
 
 <a href="https://www.linkedin.com/in/abdulrahman-shamieh-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdulrahman%20Shamieh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abdulrahmanshamieh234@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/abedshamieh-developer">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abedshamieh-developer&label=PROFILE+VIEWS&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/abedshamieh-developer?label=FOLLOWERS&style=for-the-badge&logo=github"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```typescript
-const abdulrahman = {
-    role: "Software Engineer",
-
-    focus: [
-        "Backend Engineering",
-        "Cloud Computing",
-        "DevOps",
-        "CI/CD"
-    ],
-
-    languages: [
-        "Python",
-        "TypeScript",
-        "JavaScript",
-        "PHP"
-    ],
-
-    technologies: [
-        "AWS",
-        "Laravel",
-        "Express.js",
-        "React",
-        "GitHub Actions"
-    ],
-
-    interests: [
-        "Scalable Systems",
-        "Automation",
-        "Cloud Architecture",
-        "System Design"
-    ],
-
-    currentlyLearning: [
-        "Java",
-        "Spring Boot",
-        "Advanced AWS"
-    ],
-
-    mindset: "Build. Learn. Improve. Repeat. 🚀"
-};
-```
-
----
-
-# 🚀 A Little More About Me
-
-- 🎓 Computer Science graduate with a **3.89 GPA**
-- 🏆 **AWS Certified Cloud Practitioner**
-- 💻 Software Engineer passionate about **Backend, Cloud & DevOps**
-- ☁️ Hands-on experience building solutions using **AWS serverless technologies**
-- ⚙️ Experienced with **CI/CD automation, GitHub Actions, IAM & OIDC**
-- 🔍 Interested in **observability, logging and reliable production systems**
-- 🐍 Working with **Python, TypeScript, JavaScript & PHP**
-- 🧩 Exploring **Laravel, Java and Spring Boot**
-- 📚 Constantly improving my knowledge of **system design and backend architecture**
-
----
-
-# ☁️ AWS Certification
-
-<div align="center">
 
 <a href="https://www.credly.com/badges/d5c24cf4-49cb-4702-baa7-749d2971dc31/public_url">
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://www.credly.com/badges/d5c24cf4-49cb-4702-baa7-749d2971dc31/public_url">
-<img src="https://img.shields.io/badge/🏆%20VERIFY%20CERTIFICATION-View%20on%20Credly-orange?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=abedshamieh-developer&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🧰 My Tech Toolbox
+## 👨‍💻 About Me
 
-### ☁️ Cloud & DevOps
+I'm **Abdulrahman Shamieh**, a Software Engineer focused on **Backend Engineering, Cloud Computing, and DevOps**.
 
-<p align="center">
+I enjoy building reliable backend systems, automating deployment workflows, working with cloud infrastructure, and understanding how software behaves in production.
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux"/>
+- 🎓 Computer Science graduate — **GPA 3.89**
+- ☁️ **AWS Certified Cloud Practitioner**
+- ⚙️ Hands-on experience with **CI/CD, GitHub Actions, IAM, OIDC, and AWS**
+- 🐍 Backend development with **Python, TypeScript, JavaScript, PHP & Laravel**
+- 🔍 Interested in **cloud architecture, observability, automation, and system design**
+- 🚀 Focused on continuously improving as a software engineer
 
-</p>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![OIDC](https://img.shields.io/badge/OIDC-Authentication-blueviolet?style=flat-square)
-![Observability](https://img.shields.io/badge/Observability-CloudWatch-orange?style=flat-square)
+### Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,java"/>
 
-### ⚙️ Backend
+<br>
 
-<p align="center">
+### Backend
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,php,laravel,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring"/>
 
-</p>
+<br>
 
-### 🗄️ Databases
+### Cloud & DevOps
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux"/>
+
+<br>
+
+### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 
-</p>
+<br>
 
-### 🎨 Frontend
-
-<p align="center">
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
 
-</p>
+</div>
 
 ---
 
-# 🌩️ AWS Experience
+## ☁️ Cloud & DevOps
 
 <div align="center">
 
@@ -180,151 +91,203 @@ const abdulrahman = {
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_Cognito-DD344C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Amazon_Data_Firehose-8C4FFF?style=for-the-badge"/>
-
-</div>
-
----
-
-# 💼 Professional Highlights
-
-> Selected professional work is described at a high level. Proprietary implementation details are intentionally omitted.
-
-### 🔍 Cloud Observability
-
-Designed and implemented a centralized, multi-tenant logging and observability solution for **14+ AWS Lambda functions**, using AWS serverless and monitoring technologies.
-
-```text
-Lambda
-   ↓
-CloudWatch Logs
-   ↓
-Data Pipeline
-   ↓
-Processing
-   ↓
-Centralized Storage
-   ↓
-Secure Log Retrieval
-```
-
-### ⚙️ CI/CD & Deployment Automation
-
-Designed automated deployment workflows spanning **multiple AWS accounts and regions**, with:
-
-`GitHub Actions` • `OIDC` • `AWS IAM` • `Lambda` • `Validation` • `Production Promotion` • `Rollback`
-
-### 🔐 Backend & Cloud Engineering
-
-Built secure APIs and cloud-based backend solutions involving:
-
-`REST APIs` • `Authentication` • `Authorization` • `AWS` • `Python` • `Serverless Architecture`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abedshamieh-developer&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedshamieh-developer&layout=compact&hide_border=true&langs_count=8"/>
-
-</div>
 
 <br>
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=abedshamieh-developer&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abedshamieh-developer&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OIDC-Authentication-6F42C1?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 AWS Certification
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abedshamieh-developer&hide_border=true&area=true"/>
+### AWS Certified Cloud Practitioner
 
-</div>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abedshamieh-developer/abedshamieh-developer/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-# 🎯 What I'm Focused On
-
-```text
-Backend Engineering      ███████████████████░   95%
-AWS & Cloud              ██████████████████░░   90%
-DevOps & CI/CD           █████████████████░░░   85%
-System Design            ██████████████░░░░░░   Growing 🚀
-Frontend                 █████████░░░░░░░░░░░   Improving
-```
-
----
-
-# 💡 Engineering Philosophy
-
-<div align="center">
-
-### `"Don't just make it work — understand why it works."`
-
-<br>
-
-**Build → Break → Debug → Learn → Improve → Repeat 🔁**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### I'm always interested in software engineering, backend, cloud and DevOps opportunities.
-
-<br>
-
-<a href="https://www.linkedin.com/in/abdulrahman-shamieh-dev">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abdulrahmanshamieh234@gmail.com">
-<img src="https://img.shields.io/badge/Send%20Me%20An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abedshamieh-developer">
-<img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.credly.com/badges/d5c24cf4-49cb-4702-baa7-749d2971dc31/public_url">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </a>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<a href="https://www.credly.com/badges/d5c24cf4-49cb-4702-baa7-749d2971dc31/public_url">
+  <strong>🔗 Verify Certification on Credly</strong>
+</a>
 
 </div>
-```
+
+---
+
+## 💼 Engineering Highlights
+
+> Professional work is described at a high level. Proprietary code and internal implementation details are intentionally omitted.
+
+<details>
+<summary><strong>🔍 Cloud Observability & Centralized Logging</strong></summary>
+
+<br>
+
+Designed and implemented a centralized multi-tenant observability solution supporting **14+ AWS Lambda functions**.
+
+**Technologies**
+
+`AWS Lambda` • `CloudWatch Logs` • `Amazon Data Firehose` • `Amazon S3` • `Python`
+
+**Focus**
+
+- Centralized application logging
+- Structured JSON logs
+- Multi-environment log organization
+- Secure log retrieval
+- Production troubleshooting and observability
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>⚙️ Multi-Account CI/CD Automation</strong></summary>
+
+<br>
+
+Designed automated deployment workflows for AWS Lambda functions across **multiple AWS accounts and regions**.
+
+**Technologies**
+
+`GitHub Actions` • `AWS IAM` • `OIDC` • `AWS Lambda` • `CI/CD`
+
+**Focus**
+
+- Automated deployments
+- Cross-account authentication
+- Deployment validation
+- Controlled production promotion
+- Versioning and rollback
+- Reduced manual deployment work
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🔐 Backend & Cloud Engineering</strong></summary>
+
+<br>
+
+Built secure backend APIs and cloud-based systems using serverless AWS technologies.
+
+**Technologies**
+
+`Python` • `REST APIs` • `AWS Lambda` • `API Gateway` • `Amazon Cognito` • `Amazon S3`
+
+**Focus**
+
+- REST API development
+- Authentication & authorization
+- Pagination
+- Secure cloud resource access
+- Backend architecture
+- Production debugging
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Order Management System
+
+A TypeScript backend project focused on software engineering principles and maintainable architecture.
+
+**Highlights**
+
+`TypeScript` • `SOLID` • `Testing` • `Logging` • `Clean Architecture`
+
+<a href="https://github.com/AbedShamieh-developer/order-management-system">
+  <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+### ⚡ Specter Engine
+
+A lightweight TypeScript pipeline for processing logs and escalating critical events with real-time alerts.
+
+**Highlights**
+
+`TypeScript` • `Logging` • `Event Processing` • `Alerts`
+
+<a href="https://github.com/AbedShamieh-developer/Specter-Engine">
+  <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abedshamieh-developer&show_icons=true&hide_border=true&include_all_commits=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedshamieh-developer&layout=compact&hide_border=true&langs_count=6" height="170"/>
+
+</div>
+
+---
+
+## 🌱 Currently Growing In
+
+<div align="center">
+
+`Backend Architecture` • `AWS` • `DevOps` • `System Design` • `Java` • `Spring Boot`
+
+</div>
+
+---
+
+## 💭 Engineering Mindset
+
+<div align="center">
+
+### Build things. Understand them. Improve them.
+
+> Reliable software is not just software that works —  
+> it's software you can understand, operate, debug, and evolve.
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm interested in opportunities involving  
+**Software Engineering • Backend • Cloud • AWS • DevOps**
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/abdulrahman-shamieh-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abdulrahmanshamieh234@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AbedShamieh-developer">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### Thanks for visiting! 👋
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer"/>
+
+</div>
